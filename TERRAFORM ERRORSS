@@ -1,1 +1,21 @@
 version misimatch in vpc due to which enable clasik link confile with deafult aws vpc. I WRITE VERSION 5 IN EC2 AND OTHER PLACES BUT NOT VPC
+
+
+ 
+
+Learning Kubernetes
+/////Make your networking concepts tight. 
+
+3. Kubernetes documentation is clear, concise – grasp the essence. 
+
+4. You don’t need to memorize – but get a hold of the key kubectl commands. 
+
+5. Spin up a Kubernetes cluster – Minikube, k3s, or kind, doesn’t matter – just do it. 
+
+6. Deploy something meaningful – nginx, a full-stack app, or an open-source project. 
+
+7. Debug your own mistakes – pods in CrashLoopBackOff, networking issues, storage challenges – go through the grind. 
+
+8. Build your own workflows – ingress routing, secrets management, autoscaling – play with real world scenarios.
+
+I repeat – you learn by doing. Dot. 
